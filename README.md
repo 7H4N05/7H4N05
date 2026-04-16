@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">⚡ TANUSH BAMNOTE ⚡</h1>
+<h3 align="center">🛡️ Cybersecurity Engineer | Red Teamer | CTF Architect</h3>
 
-<!--
-**7H4N05/7H4N05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=booting+system...;initializing+modules...;bypassing+firewalls...;access+granted+✔;malware+analyst;reverse+engineer;ctf+player+%26+builder" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ TERMINAL INIT
+
+```bash
+> sudo su
+access granted...
+
+> whoami
+tanush_bamnote
+
+> echo $ROLE
+Cybersecurity Engineer | Offensive Security | Malware Analysis
+
+> ./mission.sh
+[+] Build Secure Systems
+[+] Break Vulnerabilities
+[+] Lead Cyber Ops
