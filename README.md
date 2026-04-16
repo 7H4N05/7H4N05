@@ -2,18 +2,24 @@
 <h3 align="center">🛡️ Cybersecurity Engineer • Red Teamer • CTF Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=booting+kernel...;loading+exploit+modules...;bypassing+WAF...;root+access+granted+✔;malware+analyst;reverse+engineer;ctf+player+%26+creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=booting+system...;injecting+payload...;bypassing+firewall...;root+access+granted+✔;malware+analyst;reverse+engineer;ctf+warrior" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=header"/>
+
 ```bash
-┌──(root㉿system)-[/home/tanush]
+┌──(root㉿tanush)-[/dev/cyber]
 └─$ ./init.sh
 
-[+] Initializing identity...
-[+] Loading skill modules...
-[+] Establishing secure shell...
+[✔] Loading modules...
+[✔] Establishing persistence...
+[✔] Bypassing defenses...
 
 >> ACCESS GRANTED
 ```
@@ -23,7 +29,7 @@
 ## 🧠 WHOAMI
 
 ```bash
-tanush_bamnote@cybersec:~$ whoami
+tanush_bamnote@root:~$ whoami
 
 Cybersecurity Engineer
 Offensive Security Specialist
@@ -33,7 +39,11 @@ CTF Player & Architect
 
 ---
 
-## ⚔️ OPERATIONAL MODES
+## ⚔️ RED vs BLUE MODE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="80%" />
+</p>
 
 <table>
 <tr>
@@ -47,7 +57,6 @@ CTF Player & Architect
 [+] Malware Analysis
 [+] Binary Exploitation
 [+] CTF Warfare
-[+] Pentesting (Burp | Metasploit)
 ```
 
 </td>
@@ -58,10 +67,9 @@ CTF Player & Architect
 ```bash
 [+] Incident Response
 [+] Digital Forensics
-[+] Threat Intelligence
-[+] Secure Architecture
-[+] Log Analysis
+[+] Threat Analysis
 [+] Network Defense
+[+] Secure Systems
 ```
 
 </td>
@@ -72,24 +80,25 @@ CTF Player & Architect
 
 ## 🛠️ TOOLCHAIN
 
-```bash
-> load_toolkit --all
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,bash,docker,aws,linux,git" />
+</p>
 
-Languages   → Python | C++ | JavaScript | PHP | Bash
-Exploitation→ Metasploit | Burp Suite | Nmap | Wireshark
-Reversing   → Ghidra | JADX | Apktool | Androguard
-Infra       → Docker | AWS EC2 | GitHub | XAMPP
-Hardware    → ESP32 | Arduino
-Systems     → Linux | Windows
+```bash
+> loading tools...
+
+Metasploit | Burp Suite | Nmap | Wireshark
+Ghidra | JADX | Apktool | Androguard
+ESP32 | Arduino
 ```
 
 ---
 
-## 📊 SYSTEM TELEMETRY
+## 📊 LIVE SYSTEM STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7H4N05&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7H4N05&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=7H4N05&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -100,77 +109,57 @@ Systems     → Linux | Windows
 
 ## 🏴‍☠️ CTF STATUS
 
-```bash
-rank        → Top 5%
-specialty   → Web Exploitation | Reverse Engineering
-mode        → Competitive + Builder
-```
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CTF-PLAYER-00ff00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="60%" />
 </p>
+
+```bash
+rank      → Top 5%
+mode      → ATTACK + DEFENSE
+focus     → Web | Reverse Engineering
+```
 
 ---
 
 ## 🧪 PROJECT: APK INSPECTOR
 
 ```bash
-> run apk_inspector
+> analyzing.apk ...
 
-[+] Automated malware analysis platform
-[+] APK decompilation (Apktool + JADX)
-[+] Static analysis (Androguard)
-[+] Risk scoring engine (0–100)
+[+] Decompiling...
+[+] Extracting code...
+[+] Running static analysis...
+[✔] Threat Score Generated
 
 STACK → React | FastAPI | Docker
 ```
 
 ---
 
-## 📡 PROJECT: ESP32 PENTEST DEVICE
+## 📡 ESP32 PENTEST DEVICE
 
 ```bash
-> deploy hardware_toolkit
+> initializing hardware...
 
-[+] Portable pentesting device
-[+] Wireless attack simulations
-[+] Built with ESP32 + Arduino
-
-STATUS → In Development
+[+] WiFi module ready
+[+] Attack simulation enabled
+[+] Portable toolkit deployed
 ```
 
 ---
 
-## 🏗️ PROJECT: CTF INFRA
+## 💼 EXPERIENCE
 
-```bash
-> ./deploy_ctf.sh
-
-EncipherX 2024
-→ National scale infra
-→ Docker + AWS
-
-Cyberpunk 2025
-→ Challenge design + hosting
-
-EncipherX 2025
-→ Full-stack platform (MERN)
-```
-
----
-
-## 💼 FIELD EXPERIENCE
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" />
+</p>
 
 ```bash
 [ Cyber Police Nagpur ]
 
-> role: Cybersecurity Intern
-
-[+] Investigated 300+ cybercrime cases
-[+] Reverse engineered 25+ APK malware
-[+] Built automation tools for analysis
-[+] Applied real-world IR + pentesting
+[+] 300+ cybercrime cases solved
+[+] 25+ malware reverse engineered
+[+] Built APK Inspector
 ```
 
 ---
@@ -178,30 +167,10 @@ EncipherX 2025
 ## 🏆 ACHIEVEMENTS
 
 ```bash
-🥇 YCCE CTF 2025       → 1st Place
-🥇 GHRCOE CTF 2025     → 1st Place
-🥈 HicaThon CTF        → 2nd Place
-🏅 DefSec Con          → Top 5
-```
-
----
-
-## 🧑‍💻 COMMAND & CONTROL (LEADERSHIP)
-
-```bash
-EncipherX 2025
-→ 500+ participants
-→ ₹45,000+ revenue
-→ 20% growth YoY
-
-Cyberpunk | Hacker's Heist
-→ Led 200+ participants
-
-Phoenix Cybersecurity Club
-→ Admin
-
-SADC
-→ General Secretary
+🥇 YCCE CTF → 1st
+🥇 GHRCOE CTF → 1st
+🥈 HicaThon → 2nd
+🏅 DefSec → Top 5
 ```
 
 ---
@@ -209,8 +178,6 @@ SADC
 ## 📡 CONNECT
 
 ```bash
-> establish_connection
-
 Email    → tanushbamnote2@gmail.com
 LinkedIn → linkedin.com/in/tanushbamnote
 GitHub   → github.com/7H4N05
@@ -221,18 +188,20 @@ GitHub   → github.com/7H4N05
 ## ⚠️ SYSTEM STATUS
 
 ```bash
-[✔] Learning new exploits
-[✔] Building offensive tools
-[✔] Competing in CTFs
-[✔] Open for opportunities
+[✔] Exploiting
+[✔] Learning
+[✔] Building
+[✔] Available for hire
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7H4N05&label=VISITORS&color=00ff00&style=flat" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  ⚡ "Break. Understand. Secure. Repeat." ⚡
+  ⚡ "Hack the system. Understand it. Secure it." ⚡
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
