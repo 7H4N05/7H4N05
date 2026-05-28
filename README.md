@@ -225,8 +225,8 @@
 ## 📊 Live GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7H4N05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7H4N05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="38%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=7H4N05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=7H4N05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="38%"/>
 </p>
 
 <p align="center">
@@ -239,6 +239,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/7H4N05/7H4N05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7H4N05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&area_color=001a00" width="100%"/>
 </p>
 
 ---
