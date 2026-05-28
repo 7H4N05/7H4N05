@@ -225,33 +225,20 @@
 ## 📊 Live GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7H4N05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
-  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=7H4N05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7H4N05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=7H4N05&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=888" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7H4N05&theme=algolia&no-frame=true&row=1&column=7&margin-w=6"/>
+  <img src="https://streak-stats.demolab.com?user=7H4N05&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=888888" width="55%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7H4N05/7H4N05/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7H4N05/7H4N05/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/7H4N05/7H4N05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7H4N05&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&area_color=001a00" width="100%"/>
+  <img src="https://raw.githubusercontent.com/7H4N05/7H4N05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 </p>
 
 ---
